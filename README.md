@@ -1,7 +1,7 @@
-# Blinkit-Sales-Power-BI
+# BlinkIt Business Performance -Power BI
 
 
-# Blinkit Sales Dashboard - Power BI Project
+# Blinkit Business Performance - Power BI Project
 
 This Power BI Dashboard Analyzes the sales performance of Blinkit(Grofers) across various dimensions like item type, outlet size, outlet type.
 
